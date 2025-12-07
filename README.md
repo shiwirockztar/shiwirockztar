@@ -161,7 +161,7 @@
   <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=kubernetes" />
   </a>
-  <a href="https://github.com/shiwirockztar/Angular-Movie-Website" target="_blank">
+  <a href="https://github.com/shiwirockztar/Angular-Movie-Website" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
