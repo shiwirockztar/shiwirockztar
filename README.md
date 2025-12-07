@@ -107,10 +107,10 @@
   <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/shiwirockztar/reto2-practice" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/shiwirockztar/clock" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
   <a href="#" target="_blank">
