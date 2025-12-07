@@ -59,10 +59,109 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://github.com/shiwirockztar/Angular-Movie-Website">
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prisma" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pug" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dynamodb" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=md" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=materialui" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nginx" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+  </a>
+  <a href="https://github.com/shiwirockztar/Angular-Movie-Website" target="_blank">
     <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
