@@ -119,6 +119,12 @@ I am an Electronic Engineering and Computer Science student interested in buildi
   <a href="https://github.com/shiwirockztar/DIgitales-TerosHDL-VHDL"><img src="https://img.shields.io/badge/FPGA-VHDL%20%7C%20Verilog-8A2BE2?style=flat-square" alt="FPGA projects"></a>
 </p>
 
+## 3D contribution profile
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub contribution profile">
+</p>
+
 ## GitHub activity
 
 <p align="center">
